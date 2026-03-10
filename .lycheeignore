@@ -3,3 +3,6 @@
 # Update these when adopt gains full agent/docs/scripts structure
 https://github.com/EndogenAI/Workflows/.*
 https://github.com/EndogenAI/dogma/.*
+
+# Local file links in repo-specific READMEs (adopt is minimal scaffold)
+^file:///.*
